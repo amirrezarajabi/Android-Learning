@@ -8,4 +8,4 @@
 
   * ### [Dice](https://github.com/amirrezarajabi/Android-Learning/tree/main/APKs/Dice-apk)
 
-  * ![Dice](C:\Users\AmirReza\Desktop\Project\Android-Learning\APKs\Dice-apk\Dice.jpg)
+  * <img src=APKS/Dice-apk/Dice.png></img>
