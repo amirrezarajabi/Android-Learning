@@ -8,4 +8,4 @@
 
   * ### [Dice](https://github.com/amirrezarajabi/Android-Learning/tree/main/APKs/Dice-apk)
 
-  * <img src=APKS/Dice-apk/Dice.png></img>
+  * <img src=APKs/Dice-apk/Dice.png></img>
