@@ -1,11 +1,11 @@
 # [Android-Learning](https://github.com/amirrezarajabi/Android-Learning)
 
-* ## [Projects](https://github.com/amirrezarajabi/Android-Learning/Projects)
+* ## [Projects](https://github.com/amirrezarajabi/Android-Learning/tree/main/Projects)
 
-  * ### [Dice](https://github.com/amirrezarajabi/Android-Learning/Projects/Dice)
+  * ### [Dice](https://github.com/amirrezarajabi/Android-Learning/tree/main/Projects/Dice)
 
-* ## [APKs](https://github.com/amirrezarajabi/Android-Learning/APKs/Dice)
+* ## [APKs](https://github.com/amirrezarajabi/Android-Learning/tree/main/APKs)
 
-  * ### [Dice](https://github.com/amirrezarajabi/Android-Learning/APKs/Dice)
+  * ### [Dice](https://github.com/amirrezarajabi/Android-Learning/tree/main/APKs/Dice-apk)
 
     
