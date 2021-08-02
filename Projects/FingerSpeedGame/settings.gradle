@@ -1,0 +1,2 @@
+rootProject.name = "FingerSpeedGame"
+include ':app'
